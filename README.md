@@ -29,6 +29,10 @@ La classificazione dei pixel predetti viene pesata proporzionalmente (da 0 per n
 
 I dati di partenza e l'infrastruttura di base richiamata in questi script appartengono al progetto **RescueNet**. Il codice clona automaticamente il loro repository ufficiale per importare l'architettura dei dati. Si prega di fare riferimento alla loro documentazione ufficiale per le licenze, i crediti e i vincoli di utilizzo relativi al dataset di immagini originale.
 
+## Dichiarazione sull'utilizzo dell'Intelligenza Artificiale (AI Act)
+
+Nel rispetto dei principi di trasparenza promossi dall'AI Act europeo e dalle vigenti direttive di integrità accademica, si dichiara che alcune porzioni del codice sorgente sono state sviluppate con il supporto di sistemi di Intelligenza Artificiale generativa (Google Gemini). Tutti gli output prodotti sono stati sottoposti a una sistematica e rigorosa revisione umana, validati tecnicamente e rielaborati personalmente per aderire ai requisiti del dominio ingegneristico. L'autore assume la totale responsabilità intellettuale, logica e funzionale dell'intero progetto, garantendo la correttezza metodologica dei risultati presentati.
+
 ## Licenza
 
 Il codice sorgente e i *notebook* presenti in questo repository sono rilasciati sotto [MIT License](LICENSE).
