@@ -1,6 +1,6 @@
 # Valutazione Danni Post-Sisma tramite Segmentazione Semantica UAV
 
-Questo repository contiene il codice sorgente sviluppato a supporto della tesi magistrale relativa alla classificazione dei danni strutturali post-evento sismico. Il progetto sfrutta reti neurali convoluzionali per la segmentazione semantica di immagini zenitali acquisite da Aeromobili a Pilotaggio Remoto (APR/UAV).
+Questo repository contiene il codice sorgente sviluppato a supporto della tesi triennale relativa alla classificazione dei danni strutturali post-evento sismico. Il progetto sfrutta reti neurali convoluzionali per la segmentazione semantica di immagini zenitali acquisite da Aeromobili a Pilotaggio Remoto (APR/UAV).
 
 L'obiettivo algoritmico è superare i limiti delle metriche di valutazione globali, implementando un indice di severità del danno basato sui criteri normativi ufficiali italiani (scheda AeDES e scala macrosismica EMS-98).
 
